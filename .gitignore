@@ -675,3 +675,8 @@ fabric.properties
 .history/
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#macOS,Python,Csharp,Windows,DotnetCore,PyCharm+all,VisualStudioCode
+
+# code2flow outputs
+
+out.gv
+out.png
